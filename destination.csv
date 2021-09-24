@@ -1,0 +1,59 @@
+country, city, continent, price
+Argentina, Buenos Ares, South America,1000.0
+Australia, Canberra, Oceania,4000.0
+Australia, Melbourne, Oceania,4600.0
+Australia, Sydney, Oceania,4050.0
+Bahamas, Nassau, North America,4030.0
+Barbados, Bridgetown, North America,4700.0
+Belgium, Brussles, Europe,400.0
+Brazil, Rio De Jinero, South America,4050.0
+Canada, Toronto, North America,8800.0
+Canada, Ottowa, North America,9000.0
+China, Beijing, Asia,4700.0
+China, Shanghai, Asia,4040.0
+China, Chonching, Asia,4010.0
+Colombia, Bogota, South America,4005.0
+Denmark, Copenhagen, Europe,2300.0
+Egypt, Alexandria, Africa,4300.0
+Egypt, Cairo, Africa,4010.0
+Fiji, Suva, North America,4300.0
+Finland, Helsinki, Europe,4050.0
+France, Paris, Europe,4006.0
+France, Marseille, Europe,700.0
+France, Lyon, Europe,4500.0
+Germany, Berlin, Europe,4500.0
+Germany, Munich, Europe,4200.0
+Greece, Athens, Europe,4040.0
+Hungary, Budapest, Europe,400.0
+India, Mumbai, Asia,4300.0
+India, Delhi, Asia,3400.0
+India, Hydrabad, Asia,4400.0
+Ireland, Dublin, Europe,3400.0
+Israel, Tel-Aviv, Asia,5400.0
+Israel, Jerusalem, Asia,4500.0
+Italy, Rome, Europe,4020.0
+Italy, Milan, Europe,4040.0
+Italy, Venice, Europe,4010.0
+Jamaica, Kingston, North America,4020.0
+Japan, Tokyo, Asia,4060.0
+Japan, Okinawa, Asia,4050.0
+Japan, Yokohama, Asia,4030.0
+Netherlands, Amsterdam, Europe,4060.0
+New Zealand, Auckland, Oceania,4070.0
+North Korea, Pyongyang, Asia,4050.0
+Poland, Warsaw, Europe,4700.0
+Portugal, Lisbon, Europe,4900.0
+Russia, Moscow, Europe,9400.0
+Russia, Minsk, Europe,4900.0
+Russia, St. Petersburg, Europe,4030.0
+Singapore, Singapore, Asia,4002.0
+South Africa, Cape Town, Africa,4400.0
+South Korea, Seoul, Asia,4050.0
+Spain, Madrid, Europe,4200.0
+Spain, Barcelona, Europe,4500.0
+Thailand, Bangkok, Asia,3400.0
+United Arab Emirates, Dubai, Asia,9400.0
+United Arab Emirates, Abu Dhabi, Asia,7400.0
+United States of America, Los Angeles, North America,6400.0
+United States of America, Miami, North America,9400.0
+United States of America, New York, North America,8400.0
